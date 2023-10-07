@@ -1,0 +1,19 @@
+body {
+  background: #1f1f1f;
+  font-family: 'Barlow', sans-serif;
+  font-family: 'Inter', sans-serif !important;  
+  font-size: 16px;
+  scroll-behavior: smooth;
+  color: #999999;
+  line-height: 1.7;
+  overflow-x: hidden;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: "Barlow,  sans-serif";
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
